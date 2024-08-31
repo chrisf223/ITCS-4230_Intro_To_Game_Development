@@ -1,0 +1,7 @@
+inflict_damage(bulletDamage)
+
+
+
+
+
+

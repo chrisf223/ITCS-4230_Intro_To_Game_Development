@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_player_down","order":1,"path":"sprites/spr_player_down/spr_player_down.yy",},
+    {"name":"spr_player_up","order":3,"path":"sprites/spr_player_up/spr_player_up.yy",},
+    {"name":"spr_player_side","order":5,"path":"sprites/spr_player_side/spr_player_side.yy",},
+    {"name":"spr_player_dance","order":7,"path":"sprites/spr_player_dance/spr_player_dance.yy",},
+    {"name":"spr_player_mask","order":9,"path":"sprites/spr_player_mask/spr_player_mask.yy",},
+    {"name":"spr_block","order":11,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_backdrop","order":13,"path":"sprites/spr_backdrop/spr_backdrop.yy",},
+    {"name":"spr_E","order":15,"path":"sprites/spr_E/spr_E.yy",},
+    {"name":"obj_block","order":3,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"room0","order":1,"path":"rooms/room0/room0.yy",},
+  ],
+}

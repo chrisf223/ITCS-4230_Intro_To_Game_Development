@@ -1,0 +1,4 @@
+canHitPlayer = true
+
+
+

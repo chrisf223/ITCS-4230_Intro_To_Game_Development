@@ -1,0 +1,6 @@
+canShoot = true
+
+
+
+
+
